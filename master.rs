@@ -1,307 +1,632 @@
-// two comments of Rust
-// two comments of Rust
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
-// linguist check code from the File Size
 fn main() {
-    // Statements here are executed when the compiled binary is called
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+}
 
-    // Print text to the console
+fn hell() {
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+}
+
+fn hii() {
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+}
+
+fn hbu() {
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
+    println!("Hello World!");
     println!("Hello World!");
     println!("Hello World!");
     println!("Hello World!");

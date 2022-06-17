@@ -1,0 +1,1 @@
+<? echo"Counted as lang"; >

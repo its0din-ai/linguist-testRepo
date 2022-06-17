@@ -1,1 +1,1 @@
-<? echo"Counted as lang"; >
+<?php echo"Counted as lang"; >
